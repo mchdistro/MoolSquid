@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/MoolSquid/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "MoolSquid (Minecraft 1.20.1)",
+    "description": "MoolSquid Running Minecraft 1.20.1 (Forge v47.3.27)",
+    "icon": "https://github.com/mchdistro/MoolSquid/raw/main/server-icon.png",
+    "address": "mc.gotiger.dev:25566",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": ">=17",
+      "ram": { "minimum": 6144, "recommended": 8192 }
+    }
+  },
+  "forge": {
+    "version": "47.3.27"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["config/oculus.properties", "config/voicechat/voicechat-client.properties"]
+    }
+  ]
+}

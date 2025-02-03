@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/MoolSquid/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "MoolSquid (Minecraft 1.20.1)",
-    "description": "MoolSquid Running Minecraft 1.20.1 (Forge v47.3.27)",
+    "name": "물징어 게임",
+    "description": "Minecraft 1.20.1 (Forge v47.3.27)",
     "icon": "https://github.com/mchdistro/MoolSquid/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:25566",
     "discord": {

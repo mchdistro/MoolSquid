@@ -445,7 +445,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22501,
-            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/BlackwolfLibrary-1.20.1-1.0.2-[FORGE].jar",
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/BlackwolfLibrary-1.20.1-1.0.2.jar",
             "MD5": "6f3fa5fa194234a8dd0a90b4ef30bc09"
           },
           "required": {
@@ -497,7 +497,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8368538,
-            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/MoreDecorativeBlocks-1.20.1-1.0.4-[FORGE].jar",
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/MoreDecorativeBlocks-1.20.1-1.0.4.jar",
             "MD5": "7ef97ad1083cbac8b333025dc3ebdf0e"
           },
           "required": {

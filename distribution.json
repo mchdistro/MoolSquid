@@ -603,6 +603,17 @@
           }
         },
         {
+          "id": "BetterVanillaBuildingV2.99.zip",
+          "name": "BetterVanillaBuildingV2.99.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4292157,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/resourcepacks/BetterVanillaBuildingV2.99.zip",
+            "MD5": "3e81f32e7013aad1723753a87bf9f136",
+            "path": "resourcepacks/BetterVanillaBuildingV2.99.zip"
+          }
+        },
+        {
           "id": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "name": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "type": "File",

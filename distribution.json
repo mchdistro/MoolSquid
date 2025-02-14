@@ -522,9 +522,9 @@
           "name": "Squid_mcc",
           "type": "ForgeMod",
           "artifact": {
-            "size": 62202,
+            "size": 80013,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/squid_mcc-1.0-SNAPSHOT.jar",
-            "MD5": "7e3cf76e6b3eb7f0fc0f4a7b61caf5c4"
+            "MD5": "dd10f7502d024dcf1a7c707985cdd317"
           },
           "required": {
             "value": false
@@ -590,14 +590,14 @@
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.52 Lite.zip",
-          "name": "Sildur's Vibrant Shaders v1.52 Lite.zip",
+          "id": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
+          "name": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "type": "File",
           "artifact": {
             "size": 142508,
-            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Lite.zip",
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
             "MD5": "ceba4ca74a1e49636cfe96417cadf790",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
+            "path": "shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip"
           }
         }
       ]

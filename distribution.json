@@ -625,6 +625,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 149,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/servers.dat",
+            "MD5": "59b379d6b8261d77e850ffede376b473",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "name": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "type": "File",

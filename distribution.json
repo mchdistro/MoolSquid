@@ -561,9 +561,9 @@
           "name": "Squid_mcc",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1612071,
+            "size": 1617791,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/squid_mcc-1.0-SNAPSHOT.jar",
-            "MD5": "6e6356fdd11decd4d773dfc0e67bc9e1"
+            "MD5": "5c8658b4df5ffe1862af66febc83f800"
           },
           "required": {
             "value": false

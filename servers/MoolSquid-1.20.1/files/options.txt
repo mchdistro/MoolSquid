@@ -157,7 +157,7 @@ key_key.tacz.refit.desc:key.keyboard.z
 key_key.tacz.zoom.desc:key.keyboard.v
 key_key.tacz.melee.desc:key.keyboard.v
 key_key.tacz.open_config.desc:key.keyboard.t:ALT
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.5066225165562914

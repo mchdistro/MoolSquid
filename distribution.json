@@ -479,6 +479,19 @@
           }
         },
         {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.11+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194923,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.11+mc1.20.1.jar",
+            "MD5": "f3f44f46e991ce19fad6080231335d52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -512,6 +525,19 @@
             "size": 13195,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/name_overwriter-1.0-SNAPSHOT.jar",
             "MD5": "2bc8fb7670408a8111f2b4d612ee65c2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
+          "name": "No Chat Reports",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 272740,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
           },
           "required": {
             "value": false

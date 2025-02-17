@@ -535,9 +535,9 @@
           "name": "Squid_mcc",
           "type": "ForgeMod",
           "artifact": {
-            "size": 80013,
+            "size": 1612071,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/squid_mcc-1.0-SNAPSHOT.jar",
-            "MD5": "dd10f7502d024dcf1a7c707985cdd317"
+            "MD5": "6e6356fdd11decd4d773dfc0e67bc9e1"
           },
           "required": {
             "value": false
@@ -600,6 +600,17 @@
             "size": 4171,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/config/voicechat/voicechat-client.properties",
             "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5309,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/options.txt",
+            "MD5": "ce49c29380c2bdf9581aa322a398cad1",
+            "path": "options.txt"
           }
         },
         {

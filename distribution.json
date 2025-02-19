@@ -522,9 +522,9 @@
           "name": "Name overwriter",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13566,
+            "size": 13790,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/name_overwriter-1.0-SNAPSHOT.jar",
-            "MD5": "f8e5cfa214de164303fbcc392b44f173"
+            "MD5": "86334ce36039696b65372c718df53883"
           },
           "required": {
             "value": false
@@ -561,9 +561,9 @@
           "name": "Squid_mcc",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1822313,
+            "size": 1824289,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/forgemods/optionalon/squid_mcc-1.0-SNAPSHOT.jar",
-            "MD5": "9489af7dfc7dfc01418b904794d250c8"
+            "MD5": "0440aef933e51a78be3c37adad2df421"
           },
           "required": {
             "value": false

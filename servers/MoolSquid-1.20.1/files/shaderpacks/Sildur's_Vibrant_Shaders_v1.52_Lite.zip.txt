@@ -1,0 +1,5 @@
+#Thu Feb 20 14:20:28 KST 2025
+Brightness=2.0
+Contrast=1.5
+eyeLight=2.4
+sunPathRotation=0.0

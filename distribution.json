@@ -666,10 +666,21 @@
           "name": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
           "type": "File",
           "artifact": {
-            "size": 142508,
+            "size": 142543,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip",
-            "MD5": "ceba4ca74a1e49636cfe96417cadf790",
+            "MD5": "98c4ae5fcb12d446ff399e3b8e010bc6",
             "path": "shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip.txt",
+          "name": "Sildur's_Vibrant_Shaders_v1.52_Lite.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 96,
+            "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip.txt",
+            "MD5": "71d90a3969640fa21b37b46079d377f4",
+            "path": "shaderpacks/Sildur's_Vibrant_Shaders_v1.52_Lite.zip.txt"
           }
         }
       ]

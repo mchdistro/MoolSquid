@@ -24,7 +24,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["config/oculus.properties", "config/voicechat/voicechat-client.properties"]
+      "patterns": ["options.txt", "config/oculus.properties", "config/voicechat/voicechat-client.properties"]
     }
   ]
 }

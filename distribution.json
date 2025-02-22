@@ -594,9 +594,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5315,
+            "size": 5300,
             "url": "https://github.com/mchdistro/MoolSquid/raw/main/servers/MoolSquid-1.20.1/files/options.txt",
-            "MD5": "8ad7621c028b861961fe7ca09bd3b579",
             "path": "options.txt"
           }
         },
